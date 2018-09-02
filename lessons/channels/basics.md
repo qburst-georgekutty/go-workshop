@@ -1,8 +1,6 @@
----
-layout: page
-title: 14 - Channel
----
-***
+# Channels
+
+&nbsp;
 
 ➩ **Channels** allow goroutines to communicate with each other through the use of signaling semantics.
 

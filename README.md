@@ -4,4 +4,4 @@
 
 - [Channels](https://qburst-georgekutty.github.io/go-workshop/lessons/channels/basics)
 
-- [Data Race](https://qburst-georgekutty.github.io/go-workshop/codes/data_race.go)
+- [Data Race](https://github.com/qburst-georgekutty/go-workshop/blob/master/codes/data_race.go)

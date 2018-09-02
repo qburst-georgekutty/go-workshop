@@ -1,10 +1,3 @@
----
-layout: page
-title:
----
-
-<!-- ➩ Design Guidelines -->
-
 ## Language Mechanics
 ***
 
