@@ -1,2 +1,3 @@
-# go-workshop
-Go Workshop - Day #3
+## Topics
+
+- [Goroutines](https://qburst-georgekutty.github.io/go-workshop/lessons/goroutines/basics)
