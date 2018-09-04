@@ -11,3 +11,5 @@
 - [Data Race](https://github.com/qburst-georgekutty/go-workshop/blob/master/codes//data_race/example1/example1.go)
 
 - [Testing](https://qburst-georgekutty.github.io/go-workshop/lessons/testing/basics)
+
+- [Benchmarking](https://qburst-georgekutty.github.io/go-workshop/lessons/benchmarking/basics)
